@@ -3,7 +3,7 @@
 # 🌱 I’m currently learning Full-Stack Development Languages.
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omersaidbulduk/) 
-<align="left"> <img src="https://komarev.com/ghpvc/?username=omersb" alt="visitor counter" width="15%"/>  
+<img src="https://komarev.com/ghpvc/?username=omersb" alt="visitor counter" width="15%"/>  
 
 ## 📈 Statistics
 <p align="left">
