@@ -38,28 +38,45 @@
 </p>
 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width = "28"><b> Languages and Tools:</b>
+
 <br><br>
-<img align="left" alt="Visual Studio Code" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
-<img align="left" alt="HTML5" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" />
-<img align="left" alt="CSS3" height="50px" src="https://sites.google.com/site/aamzazezu/_/rsrc/1468912613047/bth-thi-4-rucak-kab-css-3/css3.png?height=400&width=285"/>
-<img align="left" alt="JavaScript" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
-<img align="left" alt="Python" height="50px" src="https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" />
-<img align="left" alt="Git" height="50px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
-<img align="left" alt="GitHub" height="50px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" />
-<img align="left" alt="Jira" height="50px" src="https://play-lh.googleusercontent.com/_AZCbg39DTuk8k3DiPRASr9EwyW058pOfzvAu1DsfN9ygtbOlbuucmXaHJi5ooYbokQX" />
-<img align="left" alt="Slack" height="50px" src="https://apiway.ai/storage/softs/YisONm9JLhNxkKDlmWkpbKGrotSo13uAuZxZhked.jpg" />
-<img align="left" alt="Django" height="50px" src="https://camo.githubusercontent.com/61427df6c36cc5fa059882373d5f87c7cb8e341f690e3610e6883aba1b4aa7fe/68747470733a2f2f736474696d65732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31302f646a616e676f2d6c6f676f2d6e656761746976652e706e67" />
-<img align="left" alt="React" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" /><br><br><br>
-<img align="left" alt="Redux" height="50px" src="https://miro.medium.com/max/312/1*SRL22ADht1NU4LXUeU4YVg.png"/>
-<img align="left" alt="Sass" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
-<img align="left" alt="Material-UI" height="50px" src="https://v4.mui.com/static/logo.png"/>
-<img align="left" alt="Bootstrap" height="50px" src="https://www.kodpit.com/com-kodpit-web/web/assets/img/logos/bootstrap.png" />
-<img align="left" alt="Styledcomponent" height="50px" src="https://www.styled-components.com/atom.png" />
-<img align="left" alt="PostgreSQL" height="50px" src="https://www.setxrm.com/wp-content/uploads/2019/11/logo-postgresql-500x500.png" />
-<img align="left" alt="Postman" height="50px" src="http://www.semihduran.com/wp-content/uploads/2020/12/postman.jpg" />
-<img align="left" alt="MongoDB" height="50px" src="https://www.bilgisayar.name/wp-content/uploads/2017/10/mongodb-gui-tools.png" />
-<img align="left" alt="MySQL" height="50px" src="https://www.onurbabur.com/wp-content/uploads/2020/09/MySQL-Logo.wine_.png"/>
-<img align="left" alt="heroku" height="50px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png"/>
+
+[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Python" width="70px" height="40px" src="https://github.com/omersb/omersb/blob/master/images/Python-Symbol.png" />][python]
+<img align="left" alt="django" height="40px" width="50px" src="https://github.com/omersb/omersb/blob/master/images/django-logo-negative.png" />
+[<img align="left" alt="HTML5" width="62px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" />][HTML]
+[<img align="left" alt="Javascript" width="64px" src="https://img2.pngindir.com/20180720/pjj/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b16dbcd8.5939232615320700654495.jpg" />][js]
+[<img align="left" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png" />][react]
+<img align="left" alt="typescript" height="50px" src="https://github.com/omersb/omersb/blob/master/images/typescript.png" />
+<img align="left" alt="nextjs" height="45px" width="55px" src="https://github.com/omersb/omersb/blob/master/images/Nextjs.png" />
+[<img align="left" alt="Linux" width="69px" src="https://w7.pngwing.com/pngs/970/403/png-transparent-tux-linux-mint-logo-linux-logo-vertebrate-bird.png" />][linux]<br><br><br>
+<img align="left" alt="Jira" height="50px" src="https://github.com/omersb/omersb/blob/master/images/jira.jpg" />
+<img align="left" alt="Slack" height="50px" src="https://github.com/omersb/omersb/blob/master/images/slack.jpg" />
+<img align="left" alt="redux" height="50px" src="https://github.com/omersb/omersb/blob/master/images/redux.png"/>
+<img align="left" alt="sass" height="50px" src="https://github.com/omersb/omersb/blob/master/images/sass.png" />
+<img align="left" alt="Material-UI" width="50px" height="40px" src="https://github.com/omersb/omersb/blob/master/images/MaterialUI.png" vlign=center/>
+<img align="left" alt="bootstrap" widtsh="55px" height="50px" src="https://github.com/omersb/omersb/blob/master/images/Bootstrap.jpg" />
+<img align="left" alt="tailwindcss" widtsh="55px" height="50px" src="https://github.com/omersb/omersb/blob/master/images/tailwindcss.png" />
+<img align="left" alt="styledcomponent" height="50px" src="https://github.com/omersb/omersb/blob/master/images/styledcomponents.png" />
+<img align="left" alt="postgreSQL" height="50px" src="https://github.com/omersb/omersb/blob/master/images/PostgreSQL.png" />
+<img align="left" alt="postman" height="50px" src="https://github.com/omersb/omersb/blob/master/images/postman.png" />
+<br><br><br><br>
+<img align="left" alt="heroku" height="45px" src="https://github.com/omersb/omersb/blob/master/images/heroku.png"/>
+
+<br>
+
+[react]: https://tr.reactjs.org/
+[vsCode]: https://code.visualstudio.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/enes9103
+[python]: https://www.python.org/
+[js]: https://www.javascript.com/
+[linux]: https://www.linux.org/
+[HTML]: https://www.w3schools.com/html/
+
+<br><br>
 
 <br><br><br><br><br>
 <hr class="dotted">
