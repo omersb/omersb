@@ -38,7 +38,7 @@
 </p>
 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width = "28"><b> Languages and Tools:</b>
-<br>
+<br><br>
 <img align="left" alt="Visual Studio Code" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
 <img align="left" alt="HTML5" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" />
 <img align="left" alt="CSS3" height="50px" src="https://sites.google.com/site/aamzazezu/_/rsrc/1468912613047/bth-thi-4-rucak-kab-css-3/css3.png?height=400&width=285"/>
