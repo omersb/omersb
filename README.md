@@ -1,11 +1,41 @@
-### Hi there 👋 Ömer Said is here. 
+# Hi there, <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> <img align="right" src="https://github.com/enes9103/enes9103/blob/main/geek.gif" width="300"/>
+
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+React+Developer" /></a>
+</p>
+
+🌱 I’m currently learning Full-Stack Development Languages.
 
 
-# 🌱 I’m currently learning Full-Stack Development Languages.
+<img align="center" src="https://komarev.com/ghpvc/?username=omersb&color=f75c7e"> <img align="center" src="https://img.shields.io/github/followers/omersb?style=flat-square&color=f75c7e">
 
+<br>
+<p><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64" align="center"><b>Connect with me:</b></p>
+<p">
+<a href=#>
+<img border="0" alt="Ömer Said BULDUK" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
+</a>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omersaidbulduk/) 
-<img src="https://komarev.com/ghpvc/?username=omersb" alt="visitor counter" width="15%"/>  
+<a href="https://www.linkedin.com/in/omersaidbulduk/">
+<img border="0" alt="Ömer Said BULDUK" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+</a>
+
+<a href="https://twitter.com/omersaidbulduk">
+<img border="0" alt="Ömer Said BULDUK" src="https://img.icons8.com/nolan/40/twitter.png"/>
+</a>
+
+<a href="https://www.instagram.com/omersaidbulduk/">
+<img border="0" alt="Ömer Said BULDUK" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+</a>
+
+<a href="https://t.me/omersaidbulduk">
+<img border="0" alt="Ömer Said BULDUK" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+</a>
+
+<a href="mailto:omersaidbuldukk@gmail.com">
+<img border="0" alt="Ömer Said BULDUK" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+</a>
+</p>
 
 ### 🔧 Languages and Tools:
 <br>
