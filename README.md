@@ -78,11 +78,11 @@
 
 <br><br>
 
-<br><br><br><br><br>
-<hr class="dotted">
 
-## 📈 Statistics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=omersb&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omersb&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omersb&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
+<p align="center" width="100%">
+<a href="https://github.com/omersb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omersb&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omersb&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+</a>
+</p>
