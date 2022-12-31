@@ -86,3 +86,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omersb&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
 </p>
+
+<br>
+<hr>
+
+## My projects
+  Project Name       |Libraries and Technologies I use     |How does my project look   
+:-------------------------|-------------------------|-------------------------
+[Movie App](https://omersb-movie-app.netlify.app/)| React, Router, Bootstrap, Firebase, Toastify |![movieapp](https://github.com/omersb/Movie_App/blob/master/movie-app.gif?raw=true)
