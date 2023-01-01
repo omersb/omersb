@@ -97,3 +97,4 @@
 [Recipe App](https://osb-recipe-app.netlify.app/)| React, Router, Styled-components |![recipeapp](https://github.com/omersb/Recipe-App/blob/master/recipe-app.gif?raw=true)
 [Online Shopping Project](https://osb-online-shopping-project.netlify.app/)| React, Router, Bootstrap, Redux, Axios |![Online_Shopping_Project](https://github.com/omersb/Online_Shopping_Project/blob/master/online-shopping-project.gif?raw=true)
 [Kredi Hesapla JS](https://omersb.github.io/KrediHesapla_js/)| JS, DOM, Bootstrap |![kredihesaplajs](https://user-images.githubusercontent.com/97898216/171054559-48a41815-2037-414b-9a57-ea5f22b59476.png)
+[Shopping Card JS](https://js-checkout-page.netlify.app/)| JS DOM |![JS_Checkout_Page](https://github.com/omersb/JS_Checkout_Page/blob/master/img/checkout_app.gif?raw=true)
