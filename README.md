@@ -49,9 +49,20 @@ I contribute to the development and maintenance of a multilingual NGO platform i
 
 My background in physics has shaped the analytical and structured approach I bring to software development, debugging and problem solving.
 
-## Selected work
+## Selected repositories
 
-For selected professional and personal projects, demos and technical experience:
+### [Movie App](https://github.com/omersb/Movie_App)
+React movie discovery app with Firebase Authentication, protected routes and TMDB integration.  
+[Live demo](https://movie-app-omersb.vercel.app/)
+
+### [Django Blog API](https://github.com/omersb/Blog_App-django)
+RESTful blog backend with Django REST Framework, token authentication, permissions, filtering, search and pagination.
+
+### [Online Shopping Project](https://github.com/omersb/Online_Shopping_Project)
+React product catalog with React Router, Axios, Bootstrap and Fake Store API integration.  
+[Live demo](https://osb-online-shopping-project.netlify.app/)
+
+For additional professional work, demos and technical experience:
 
 **[omersb.dev](https://omersb.dev/)**
 
